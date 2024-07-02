@@ -1,0 +1,16 @@
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.CalculatorForm.resources
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.csproj.GenerateResource.cache
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.AssemblyInfoInputs.cache
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.AssemblyInfo.cs
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.csproj.CoreCompileInputs.cache
+C:\Users\orior\source\repos\CalcForms\CalcForms\bin\Debug\net8.0-windows\CalcForms.exe
+C:\Users\orior\source\repos\CalcForms\CalcForms\bin\Debug\net8.0-windows\CalcForms.deps.json
+C:\Users\orior\source\repos\CalcForms\CalcForms\bin\Debug\net8.0-windows\CalcForms.runtimeconfig.json
+C:\Users\orior\source\repos\CalcForms\CalcForms\bin\Debug\net8.0-windows\CalcForms.dll
+C:\Users\orior\source\repos\CalcForms\CalcForms\bin\Debug\net8.0-windows\CalcForms.pdb
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.dll
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\refint\CalcForms.dll
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.pdb
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\CalcForms.genruntimeconfig.cache
+C:\Users\orior\source\repos\CalcForms\CalcForms\obj\Debug\net8.0-windows\ref\CalcForms.dll
